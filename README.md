@@ -1,4 +1,6 @@
 # intellistar-emulator
+https://www.ibm.com/docs/en/SSRQLT_suite/topics/WeatherCompanyData-API-Common-Usage-Guide.html - IBM Public API docs. Look for weather imagery. My API key should work for it
+
 A web application that displays weather information in the same visual presentation as the cable headend unit [Intellistar](https://en.wikipedia.org/wiki/IntelliStar).
 
 ## Overview
