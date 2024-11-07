@@ -22,7 +22,7 @@
 
 #amazing-logo{
   position: absolute;
-  left: 0px;
+  left: 1000px;
   height: 83%;
   top: 50%;
   transform: translateY(-50%) scale(0, 0);
