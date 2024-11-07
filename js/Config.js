@@ -1,6 +1,6 @@
 window.CONFIG = {
-  crawl: `Thanks to all the contributors of this project. While it's not completely finished, the community effort has made this possible. Stars, contributions, and feedback are welcome and appreciated. Thanks for trying out this emulator.`,
-  greeting: 'This is your weather',
+  crawl: `Follow me on Twitter @AndrewSchrader, And weather alerts @ATWGWA. Go to my website andrewtheweatherguy.org`,
+  greeting: 'This is your weather report today',
   language: 'en-US', // Supported in TWC API
   countryCode: 'US', // Supported in TWC API (for postal key)
   units: 'e', // Supported in TWC API (e = English (imperial), m = Metric, h = Hybrid (UK)),
